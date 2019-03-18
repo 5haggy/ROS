@@ -1,2 +1,2 @@
 # ROS
-Configuration files needed for proper install on Raspberry Pi
+Configuration files needed for proper installation on Raspberry Pi
